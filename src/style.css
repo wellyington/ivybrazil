@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: #116530;
+    color: #FFCC1D;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+.container {
+    position: absolute;
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 300px;
+}
+p {
+    color: white;
+    margin-top: 10px;
+}
